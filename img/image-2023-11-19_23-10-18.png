@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    
+    <meta charset="utf-8"/>
+    <meta name="viewport" content=""/>
+    <meta name="renderer" content="webkit"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="description" content="IDaaS+统一身份安全入口"/>
+    <meta name="keywords" content="idsmanager,sso,账户唯一,单点登录,云身份安全管理平台, 集中授权,严格审计,公有云身份,私有云登录,SAML,oauth"/>
+    <meta name="" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <title>Go Login</title>
+</head>
+
+<body>
+<noscript>
+    <p>
+        <strong>Note:</strong> Since your browser does not support JavaScript,
+        please enable JavaScript firstly.
+    </p>
+</noscript>
+
+
+    
+    
+        
+        
+    
+    
+        
+    
+
+
+<script>
+    var goUrl = "/frontend/login#/login?sp_code=ef071d6ab430bfb6ba5bdb97472151a5DcttxYxib69";
+    
+    goUrl += "&application_key=yfdsaml2&application_disabled=false";
+    
+    window.location.href = goUrl;
+</script>
+</body>
+</html>
